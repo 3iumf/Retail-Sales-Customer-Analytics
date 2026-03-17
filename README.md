@@ -5,16 +5,16 @@ This project analyzes retail sales data to uncover insights about revenue perfor
 
 The analysis transforms raw transactional data into business intelligence using Excel, MySQL, and Power BI.
 
-Tools Used
 
-Excel – Data cleaning and exploration
-MySQL – Data modeling and analytical queries
-Power BI – Interactive dashboard visualization
+Tools Used
+- Excel – Data cleaning and exploration
+- MySQL – Data modeling and analytical queries
+- Power BI – Interactive dashboard visualization
 
 
 Dashboard Preview
 
-
+![Dashboard Preview](images/dashboard_preview.png)
 
 
 Key Business Insights
@@ -29,9 +29,9 @@ Dashboard Features
 
 The dashboard provides insights into:
 
-• Sales performance by product category
-• Profitability by region
-• Revenue trends over time
-• Product sub-category profitability
-• Customer segmentation using RFM analysis
-• Customer value matrix (Sales vs Profit)
+- Sales performance by product category
+- Profitability by region
+- Revenue trends over time
+- Product sub-category profitability
+- Customer segmentation using RFM analysis
+- Customer value matrix (Sales vs Profit)
