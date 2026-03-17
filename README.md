@@ -11,6 +11,7 @@ Excel – Data cleaning and exploration
 MySQL – Data modeling and analytical queries
 Power BI – Interactive dashboard visualization
 
+
 Dashboard Preview
 
 
